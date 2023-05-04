@@ -6,12 +6,7 @@
       "description": "",
       "pattern": "_name_",
       "prompt": false,
-      "resolution": "_prefix_-H_id_"
-    },
-    {
-      "name": "Prefix",
-      "description": "",
-      "pattern": "_prefix_"
+      "resolution": "H_id_"
     },
     {
       "name": "Id",
